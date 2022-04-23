@@ -38,6 +38,8 @@ Dərsdə ən son yazdığımız sturukturda yazırsınız (Model folderi, Data f
  Eyni adda başqa stadion yaradıla bilməz
  İnputdan dəyərləri götürərkən düzgün dəyərlər götürdüyünüzdən əmin olur.Misalcün decimal bir dəyər üçün götürdüyünüz dəyərin decimal olduğunu yoxlayıb sonra query-e elave edin. DB-da Name maxlength 25-dirsə input olaraq 25den uzun ad gələrsə xəta vesajı verib təkrar daxil etmısini istəyin və s.
 
+Tapşırığı ADO.Net ilə yerinə yetirin.
+
 Əlavə olaraq DataTable, DataSet classlarını araşdırın ADO.NET ilə istifadədə
 
 
